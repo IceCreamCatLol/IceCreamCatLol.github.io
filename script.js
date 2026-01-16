@@ -202,6 +202,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
+	"I <3 DDNet! :D",
     "I'm an atheist! :D",
     "I like cats! :D",
 	"English is my second language! :D",
@@ -593,4 +594,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   typeWriterStart();
+
 });
