@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 
-  const startMessage = "hi click anywhere thanks";
+  const startMessage = "song by @env0y1111 on yt, click anywhere";
   let startTextContent = '';
   let startIndex = 0;
   let startCursorVisible = true;
@@ -202,7 +202,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-	"@env0y1111 Created the song on the bg! :D",
     "I'm an atheist! :D",
     "I like cats! :D",
 	"English is my second language! :D",
@@ -596,4 +595,5 @@ document.addEventListener('DOMContentLoaded', () => {
   typeWriterStart();
 
 });
+
 
