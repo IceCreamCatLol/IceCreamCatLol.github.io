@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 
-  const startMessage = "click anywhere :3";
+  const startMessage = "song by @env0y1111 on yt, click anywhere! :3";
   let startTextContent = '';
   let startIndex = 0;
   let startCursorVisible = true;
